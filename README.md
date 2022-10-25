@@ -2,6 +2,8 @@
 
 #### В данном проекте реализован классический to do лист, где по мимо создания множества to do листов есть  возможность изменения статуса задачи внутри каждого из созданных to do листов. Так же есть логинизация при входе на сайт.
 
+#### Ссылка на проект: https://nepogostu.github.io/todo-list/#/
+
 #### Используемые библиотеки:  
 uuid             - https://yarnpkg.com/package/uuid  
 Material UI      - https://yarnpkg.com/package/@material-ui/core  
